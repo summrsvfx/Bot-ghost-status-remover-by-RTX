@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Telfaz Roleplay","Watching Telfaz Clips","Demoting Administrators"];
+const statusMessages = ["Listening to Tropical Shores Roleplay","Watching Tropical Clips","Demoting CadeM"];
 
 
 let currentIndex = 0;
